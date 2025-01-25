@@ -12,12 +12,13 @@ I am currently working on:
 
 ## SKILLS
 ### Languages & Frameworks
-[C#]
-[PYTHON]
-[HTML5]
-[PHP]
-[JAVASCRIPT]
-[BLADE]
-[DART]
+C#,
+Python,
+HTML5,
+PHP,
+Javascript,
+Laravel,
+Blade,
+Dart
 
 
