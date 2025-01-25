@@ -1,12 +1,8 @@
 
-
-<!---
-gigo890/gigo890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## INTRODUCTION
 
-Hi, I am gigo890.
+Hi, I'm gigo890
+and I am currently enrolled in Sheffield Hallam University's Software Engineering course.
 - Interested in playing video games
 - Currently learning Blazor
 
