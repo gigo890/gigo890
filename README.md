@@ -7,9 +7,6 @@ I am currently working on:
 - Blazor
 - Mobile Applications (Dart)
 
-## SOCIALS
-[LinkedIn](www.linkedin.com/in/jacob-westfield-4881a0338)
-
 ## SKILLS
 ### Languages & Frameworks
 C#,
