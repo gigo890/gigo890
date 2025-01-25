@@ -1,10 +1,23 @@
 
 ## INTRODUCTION
 
-Hi, I'm gigo890
-and I am currently enrolled in Sheffield Hallam University's Software Engineering course.
-- Interested in playing video games
-- Currently learning Blazor
+My name is Jacob, a student Software Engineer working towards a BEng.
 
-## CONTACTS
-LinkedIn: www.linkedin.com/in/jacob-westfield-4881a0338
+I am currently working on: 
+- Blazor
+- Mobile Applications (Dart)
+
+## SOCIALS
+[LinkedIn](www.linkedin.com/in/jacob-westfield-4881a0338)
+
+## SKILLS
+### Languages & Frameworks
+[C#]
+[PYTHON]
+[HTML5]
+[PHP]
+[JAVASCRIPT]
+[BLADE]
+[DART]
+
+
